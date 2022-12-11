@@ -1,6 +1,5 @@
 # hackman
-
-A new Flutter project.
+it's an application for White hackers to report vulnerabilities in companies domains for a revenue 
 
 ## Getting Started
 
